@@ -1,0 +1,35 @@
+
+
+@media screen and ( min-width: 0px ) and (max-width:767px ){
+	.logo-area{
+		margin-left: 8px ! important;
+	}
+	
+}
+
+/* header responsive css end */
+
+
+@media screen  and (min-width: 992px ) {
+	  .carousel-content img{
+	  	width: 100%;
+	  	height: 600px;
+	  }
+
+}
+
+@media screen  and (min-width: 481px ) and (max-width: 991px) {
+	  .carousel-content img{
+	  	width: 100%;
+	  	height: 327px;
+	  }
+
+}
+
+@media screen  and (min-width: 0px ) and (max-width: 480px) {
+	  .carousel-content img{
+	  	width: 100%;
+	  	height: 220px;
+	  }
+
+}

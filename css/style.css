@@ -1,0 +1,113 @@
+*{margin:0px; padding:0px; overflow-x:hidden;}
+
+.header-part{
+    background:#596275;
+
+
+}
+
+.logo-area{
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.menu-area li{
+    margin-right: 13px;
+}
+.menu-area li a{
+    color: #fff;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 6px 12px ! important;
+    
+}
+.menu-area li a:hover{
+    background: #747d8c;
+    border-radius: 4px;
+}
+
+/* header css end */
+.slider-part{
+    background: #f7f7f7;
+       
+}
+.slide-info a{
+    font-size: 45px;
+    color: #fff;
+    opacity: 8;
+}
+.slide-info ul li{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.pad-coustom{
+    padding-left: 0px ! important;
+   padding-right:0px ! important;
+}
+
+.rw-coustom{
+    overflow-x:hidden ;
+}
+
+/* ===================Slide css End ======================*/
+.skills-part{
+    padding: 40px 0px 60px 0px;
+    background-color: #57606f;
+}
+.h-border{
+   background: #efff00;
+    width: 99px;
+    margin: auto;
+    display: block;
+    height: 1px;
+    margin-bottom: 32px;
+}
+.skills-contant h3{
+    color: #fff;
+    padding: 22px 0px 3px 0px;
+}
+.htmlwidth{
+    width: 90%;
+}
+.csswidth{
+    width: 85%;
+}
+.bootwidth{
+    width: 75%;
+}
+.javawidth{
+    width: 50%;
+}
+
+/* Skill css End */
+
+.team-member-part{
+
+}
+
+.team-content{
+    background: #fff;
+    border-radius: 4px ;
+}
+.team-content img{
+    width: 100%;
+    border-radius: 4px 4px 0px 0px;
+}
+.team-content h3{
+    padding: 9px 6px;
+}
+.team-content p{
+    padding: 3px 3px 9px 6px;
+}
+
+
+/* team css end */
+
+.about-section{
+    background: #778ca3;
+}
+.about-contant-fqu{
+    margin-top: 100px;
+}
